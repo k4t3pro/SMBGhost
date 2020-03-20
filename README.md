@@ -1,5 +1,5 @@
 # SMBGhost
-Advanced scanner for CVE-2020-0796 - SMBv3 RCE using [ollypwn](https://github.com/ollypwn) detection technique ([SMBGhost](https://github.com/ollypwn/SMBGhost)).
+Advanced scanner for CVE-2020-0796 - SMBv3 RCE using [k4t3pro](https://github.com/k4t3pro) detection technique ([SMBGhost](https://github.com/k4t3pro/SMBGhost)).
 
 It can scan the entire internet using masscan or, a single ip.
 
@@ -28,7 +28,7 @@ cp bin/masscan /usr/bin/.
 The installation has been tested in Debian bullseye/sid x86_64 (march 2020)
 #### Clone the project
 ```
-git clone https://github.com/x1n5h3n/SMBGhost.git
+git clone https://github.com/k4t3pro/SMBGhost.git
 ```
 
 #### Move in the project folder
@@ -83,7 +83,7 @@ python3 scanner.py -f targets.txt
 
 ## Authors
 
-* **[x1n5h3n](https://blog.xinshen.se/about)**
+* **[k4t3pro](https://www.facebook.com/k4t3pro)**
 
 ## License
 
